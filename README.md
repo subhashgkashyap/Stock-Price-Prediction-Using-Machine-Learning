@@ -1,8 +1,8 @@
 Stock market prediction is the act of trying to determine the future values of a company stock or other financial instrument traded on an exchange. This project gives the estimation of the price of a company’s stock based on the history and helps the stakeholders to either invest on the stock or to take away their stock from the company.
 
-Time-series prediction is the concept widely used in many real-world applications such as weather forecasting and financial market prediction. Regression Analysis is a common technique used for prediction. It uses the continuous data in a period of time to predict the result in the next time unit. Many timeseries prediction algorithms have shown their effectiveness in practice.
+Time-series prediction is the concept widely used in many real-world applications such as weather forecasting and financial market prediction. Regression Analysis is a common technique used for prediction. It uses the continuous data in a period of time to predict the result in the next time unit. Many timeseries prediction algorithms have shown their effectiveness in practice. Only ##Open price is considered for processing.
 
-I have used the traditional machine learning algorithms of regression in this project. They are:
+I have used the machine learning algorithms of regression in this project namely:
 - Simple Linear Regression
 - Support Vector Regression
 - Decision Tree Regression
